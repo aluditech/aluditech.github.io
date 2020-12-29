@@ -522,3 +522,13 @@ input[type="range"] {
 	top: 0;
 	left: -2400px;
 }
+
+.search-box {
+  background: #FFFFFF;
+  border: 1px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 32.5px;
+  width: 468px;
+  height: 37px;
+  font-size: 12px;
+}
