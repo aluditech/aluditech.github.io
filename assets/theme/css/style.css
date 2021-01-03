@@ -558,3 +558,17 @@ input[type="range"] {
 .display-news {
   font-size: 20px !important;
 }
+
+.floating-download {
+  background-color: #ffffff;
+}
+
+.btn-download {
+  border-radius: 26px !important;
+}
+
+h1.news-download {
+  color: #B1262A;
+  font-size: 20px;
+  line-height: 24px;
+}
